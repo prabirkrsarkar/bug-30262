@@ -1,0 +1,5 @@
+client_certificate_path = "/home/prasarkar/Documents/xxxxxx/xxxxxxx/service-principal.pfx"
+client_certificate_password = "xxxxx"
+subscription_id = "xxxxxxxxxxxxxxxxxxxxxx"
+client_id = "xxxxxxxxxxxxxxxxxxxxxxx"
+tenant_id = "xxxxxxxxxxxxxxxxxxxxxxxxxx"
